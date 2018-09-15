@@ -6,7 +6,7 @@ description: > # Meta description of Homepage
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://neilhzy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://neilhzy.github.io/sleek" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -31,7 +31,7 @@ tagline: >
 
 hero_img: posts/charts-computer-data-669615.jpg/ # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: zihe@ucdavis.edu # email for form submission
+email: neal.hzy@gmail.com # email for form submission
 
 # twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 github_username:  neilhzy # replace with your_github_username or comment to remove link from footer
